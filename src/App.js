@@ -1,6 +1,7 @@
 import About from "./About";
 import AllinOne from "./AllinOne";
 import "./App.css";
+import Footer from "./Footer";
 import Hero from "./Hero";
 import Navbar from "./Navbar";
 import Pricing from "./Pricing";
@@ -15,6 +16,7 @@ function App() {
       <Support />
       <AllinOne />
       <Pricing />
+      <Footer />
     </div>
   );
 }
